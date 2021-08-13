@@ -1,2 +1,0 @@
-# mblog
-Simple Blog
